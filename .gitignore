@@ -1,1 +1,4 @@
 .git
+project.lock.json
+project.assets.json
+.vs/
